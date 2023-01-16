@@ -1,4 +1,3 @@
-### Hi there 👋
 # About me:
 
 Hello, my name is **Rodrigo Aguirre**. I'm from Argentina and I'm 25 years old.
