@@ -8,6 +8,8 @@ During my years studying Sound Engineering I had subjects where I learned my fir
 
 Currently I am looking to improve my skills as a Software Engineer and be able to join the two branches in the future: Sound Engineering and Software Engineering.
 
+LinkedIn: https://www.linkedin.com/in/rodrigo-aguirre-7ba413224/
+
 ### My journey as a Software Engineer:
 
 I am interested in cloud infrastructure design, so in 2022 I started training. First with concepts related to networks, to later internalize myself in the services provided by AWS and finally I was certified as a Solutions Architect. In turn, to improve the workflow with these services, I learned about infrastructure as code and became a certified Terraform Associate.
